@@ -1,4 +1,12 @@
-- 👋 Hi, je suis @IRdark6826
-- 👀 Je suis intéressé par l'informatique
-- 🌱 J'apprend actuellement le nodeJS
-- 📫Vous pouvez me joindre avec mon discord : ! IRdαяk#8506
+-👑 ・ Owner of MJ.ζ͜͡Protect
+
+🏆 ・ Esio Github : https://github.com/Esio-01
+💸 • paypal.me/EsioDev
+
+🏮 ・ Youtube GuyEdit : https://www.youtube.com/channel/UCue_1JJ3cp99OB8hR8RX1bw
+
+🏮 ・  Youtube : 
+
+👑・Discord Onix : https://discord.gg/EC4xSncejt
+
+- 📫・Vous pouvez me joindre avec mon discord : ! IRdαяk#8506
