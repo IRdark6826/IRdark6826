@@ -1,0 +1,4 @@
+- 👋 Hi, je suis @IRdark6826
+- 👀 Je suis intéressé par l'informatique
+- 🌱 J'apprend actuellement le nodeJS
+- 📫Vous pouvez me joindre avec mon discord : ! IRdαяk#8506
