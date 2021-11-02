@@ -5,7 +5,7 @@
 
 🏮 ・ Youtube GuyEdit : https://www.youtube.com/channel/UCue_1JJ3cp99OB8hR8RX1bw
 
-🏮 ・  Youtube : 
+🏮 ・  Mon Youtube : https://www.youtube.com/channel/UCuFQjHeIBp-HQ50fkRfzOSg
 
 👑・Discord Onix : https://discord.gg/EC4xSncejt
 
