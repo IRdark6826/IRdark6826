@@ -5,7 +5,7 @@
 
 Languages And Toools uses :
 
-<img align="left" width="25px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)" alt="AWS" style="padding-right: 11px;">
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="AWS" style="padding-right: 11px;">
 
 
 
