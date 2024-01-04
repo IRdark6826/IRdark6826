@@ -3,7 +3,7 @@
 📫 How to reach me: discord : IRdark or mail : irdark.dev@gmail.com
 
 
-Languages And Toools uses :
+<h1> Languages And Toools uses : <h1/>
 
 <img align="left" width="25px" style="padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="AWS">
 <img align="left" width="25px" style="padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
