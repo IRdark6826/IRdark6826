@@ -11,6 +11,8 @@ Languages And Toools uses :
 <img align="left" width="25px" style="padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="25px" style="padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="25px" style="padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" width="25px" style="padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
           
           
 
