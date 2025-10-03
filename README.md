@@ -2,7 +2,7 @@
 
 - 🌱 Hi I'm IRdark, I am a young French front-end developer currently learning **Java, JS, Vue.JS, TS & C.**
 
-<h2📫 How To Contact Me ?</h2>
+<h2>📫 How To Contact Me ?</h2>
 
 - 📫 Mail : **irdark.dev@gmail.com**
 - Discord : IRdark
