@@ -1,10 +1,13 @@
 <h1>👋 Presentation</h1>
 
-- 🌱 Hello, my name is IRdark, I am a young French front-end developer currently learning **Java, JS, Vue.JS, TS & C.**
+- 🌱 Hi I'm IRdark, I am a young French front-end developer currently learning **Java, JS, Vue.JS, TS & C.**
+
+<h2📫 How To Contact Me ? </h2>
+
+- 📫 Mail : **irdark.dev@gmail.com**
+- Discord : IRdark
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/irdark6826](https://www.behance.net/irdark6826)
-
-- 📫 How to reach me **irdark.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
