@@ -1,12 +1,15 @@
 # Hi, I'm IRdark 👋
-I'm a young French front-end developer passionate about creating interactive web experiences.
+🎉 A young French front-end developer passionate about crafting web experiences.
 
 ## 🛠 Skills
-- **Languages & Frameworks:** Java, JavaScript, TypeScript, Vue.js, C
-- **Tools:** Git, VSCode, GitHub
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🎨 Projects
-Check out my works on Behance: [IRdark Dev](https://www.behance.net/irdark6826)
+Check out my works: [Behance Portfolio](https://www.behance.net/irdark6826) 🎨
 
 ## 📫 Contact Me
 <a href="https://twitter.com/irdark6" target="_blank">
