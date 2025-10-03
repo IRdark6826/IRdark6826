@@ -1,14 +1,19 @@
-<h1>👋 Presentation <h1/>
+<h1 align="center">Hi 👋, I'm IRdark</h1>
+<h3 align="center">A passionate frontend developer from France</h3>
 
-Hi, I'm IRdark, a young French developer. I work with Java, JS, HTML/CSS. Please contact me if you have any questions.
+- 🌱 I’m currently learning **Java, JS, Vue.JS, TS & C.**
 
-<h2> 📫 My Social Networks : <h2/>
-          
-<p>Discord : IRdark<p/>
-<a href="(https://www.behance.net/irdark6826)">📚 Behance</a>
+- 👨‍💻 All of my projects are available at [https://www.behance.net/irdark6826](https://www.behance.net/irdark6826)
 
-          
-          
-          
-<h2> 📚 My Work : <h2/>
-[IRdark's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRdark6826&show_icons=true&theme=transparent)
+- 📫 How to reach me **irdark.dev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/irdark6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irdark6" height="30" width="40" /></a>
+<a href="https://www.behance.net/irdark dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="irdark dev" height="30" width="40" /></a>
+<a href="https://discord.gg/irdark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irdark" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irdark&show_icons=true&locale=en&layout=compact" alt="irdark" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irdark&show_icons=true&locale=en" alt="irdark" /></p>
