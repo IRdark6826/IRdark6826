@@ -10,4 +10,4 @@ Discord : IRdark
           
           
 <h2> 📚 My Work : <h2/>
-![IRdark's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRdark6826&show_icons=true&theme=transparent)
+[IRdark's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRdark6826&show_icons=true&theme=transparent)
