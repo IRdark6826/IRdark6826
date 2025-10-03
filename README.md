@@ -1,4 +1,4 @@
-<h1 align="center">👋 Presentation</h1>
+<h1>👋 Presentation</h1>
 Hi, I'm IRdark, a young front-end developer.
 
 - 🌱 I’m currently learning **Java, JS, Vue.JS, TS & C.**
