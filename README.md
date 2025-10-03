@@ -4,9 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/irdark6826](https://www.behance.net/irdark6826)
 
-- 📫 How to reach me **irdark.dev@gmail.com**
-
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">📫 My social media :</h3>
 <p align="left">
 <a href="https://twitter.com/irdark6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irdark6" height="30" width="40" /></a>
 <a href="https://www.behance.net/irdark dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="irdark dev" height="30" width="40" /></a>
