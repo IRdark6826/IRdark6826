@@ -1,6 +1,6 @@
-👋 Hello, my name is IRdark, I'm a fullstack developer of French Moroccan origin, I'm still learning to improve my development skills, I'm learning Java and React.
+👋 Hi, I'm IRdark, a young French developer. I work with Java, JS, HTML/CSS. Please contact me if you have any questions.
 
-📫 How to reach me: discord : IRdark or mail : irdark.dev@gmail.com
+<h1> 📫 My Social Networks : <h1/>
 
 
 <h1> Languages And Toools uses : <h1/>
