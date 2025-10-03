@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm IRdark</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1 align="center">👋 Presentation</h1>
+Hi, I'm IRdark, a young front-end developer.
 
 - 🌱 I’m currently learning **Java, JS, Vue.JS, TS & C.**
 
