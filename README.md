@@ -1,26 +1,35 @@
-# Hi, I'm IRdark 👋
-🎉 A young French front-end developer passionate about crafting web experiences.
+<h1 align="center">Hi 👋, I'm IRdark</h1>
+<h3 align="center">A passionate Front-End Developer from France</h3>
 
-## 🛠 Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+🌱 I’m a young French front-end developer currently learning <strong>Java, JavaScript, Vue.js, TypeScript & C</strong>.<br>
+💻 I enjoy building interactive web applications and creative projects.<br>
+🎨 Check out my projects on <a href="https://www.behance.net/irdark6826" target="_blank">Behance</a>.
+</p>
 
-## 🎨 Projects
-Check out my works: [Behance Portfolio](https://www.behance.net/irdark6826) 🎨
+<h3 align="left">📫 Contact Me</h3>
+<p align="left">
+Email: <strong>irdark.dev@gmail.com</strong><br>
+Discord: <strong>irdark#5618</strong>
+</p>
 
-## 📫 Contact Me
+<h3 align="left">Connect with me</h3>
+<p align="left">
 <a href="https://twitter.com/irdark6" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irdark6" height="30" width="40" />
 </a>
 <a href="https://www.behance.net/irdark6826" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="irdark dev" height="30" width="40" />
 </a>
-<a href="mailto:irdark.dev@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-</a>
 <a href="https://discord.com/users/561854992395534356" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irdark" height="30" width="40" />
 </a>
+</p>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irdark&show_icons=true&locale=en&layout=compact" alt="irdark" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irdark&show_icons=true&locale=en" alt="irdark" />
+</p>
