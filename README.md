@@ -5,7 +5,7 @@
 <h2>📫 How To Contact Me ?</h2>
 
 - 📫 Mail : **irdark.dev@gmail.com**
-- Discord : IRdark
+- 💬 Discord : IRdark
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/irdark6826](https://www.behance.net/irdark6826)
 
